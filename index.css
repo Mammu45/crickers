@@ -1,0 +1,14 @@
+.pic{
+    height: 250px;
+    width: 300px;
+    margin: 7px;
+    border-radius: 10px;
+}
+
+.container{
+    background-color: goldenrod;
+    height: 250vh;
+}
+body{
+    margin: 0px;
+}
